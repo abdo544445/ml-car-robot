@@ -2,7 +2,7 @@
 # ESP32-CAM ML Robot , Object detection and hand following logic
 
 ## Team member 
-abd alatrash
+abdo alatrash
 
 
 ## 1. Project Overview
